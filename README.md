@@ -1,2 +1,2 @@
 # codingandcommunity.github.io
-New website @ https://codingandcommunity.github.io
+Repository for the static version of https://codingandcommunity.github.io
